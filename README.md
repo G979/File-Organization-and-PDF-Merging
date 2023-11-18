@@ -43,6 +43,12 @@ Install dependencies via the requirements.txt file located in this project:
   pip install -r requirements.txt
 ```
 
+Run file. 
+On terminal press:
+```bash
+  python main.py
+```
+
 ## Code Structure
 ```
 .
